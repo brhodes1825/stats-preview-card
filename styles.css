@@ -44,7 +44,7 @@ body {
   width: 68rem;
   height: 28rem;
   display: flex;
-  border-radius: 1rem;
+  border-radius: .75rem;
   overflow: hidden;
 }
 
