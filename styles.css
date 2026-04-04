@@ -50,14 +50,14 @@ body {
 .text-box {
   display: block;
   background-color: var(--blue950);
-  height: 100%;
   width: 50%;
+  height: 100%;
   padding: 3.5rem 4rem 3rem 3rem;
   color: white;
 }
 
 .image-box {
-  width: 100%;
+  width: 50%;
   height: 100%;
   object-fit: cover;
 }
