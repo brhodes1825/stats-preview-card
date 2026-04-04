@@ -61,7 +61,7 @@ body {
   width: 50%;
   height: 100%;
   background-image: url("image-header-desktop.jpg");
-  background-color: var(--purple500);
+  background-color: hsla(277, 68%, 51%, 0.5);
   background-blend-mode: overlay;
   object-fit: stretch;
 }
