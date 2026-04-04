@@ -63,7 +63,7 @@ body {
   background-image: url("image-header-desktop.jpg");
   background-color: var(--purple500);
   background-blend-mode: overlay;
-  object-fit: stretch;
+  object-fit: cover;
 }
 
 .header {
