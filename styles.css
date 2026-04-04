@@ -60,6 +60,9 @@ body {
 .image-box {
   width: 50%;
   height: 100%;
+  background-image: url("image-header-desktop.jpg");
+  background-color: var(--purple500);
+  background-blend-mode: screen;
   object-fit: contain;
 }
 
