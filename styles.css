@@ -44,7 +44,7 @@ body {
   width: 68rem;
   height: 28rem;
   display: flex;
-/*  align-items: stretch; */
+  border-radius: 1rem;
 }
 
 .text-box {
