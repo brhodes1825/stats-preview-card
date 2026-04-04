@@ -41,8 +41,8 @@ body {
 }
 
 .card {
-/*  width: 65rem; */
-/*  height: 30rem; */
+  width: 65rem;
+  height: 30rem;
   display: flex;
 /*  align-items: stretch; */
 }
