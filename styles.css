@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "Inter";
+  src: url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+}
+
+@font-face {
+  font-family: "Lexend Deca";
+  src: url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap");
+}
+
 :root {
   
 /* Primary */
@@ -85,4 +95,12 @@ body {
   font-size: .925rem;
   color: var(--white-main);
   text-align: left;
+}
+
+.info, .caps {
+  font-family: "Inter";
+}
+
+.header, .numbers {
+  font-family: "Lexend Deca";
 }
