@@ -45,6 +45,7 @@ body {
   height: 28rem;
   display: flex;
   border-radius: 1rem;
+  overflow: hidden;
 }
 
 .text-box {
