@@ -20,10 +20,8 @@
 }
 
 body {
-  width: 100%;
-  height: 100%;
-  max-width: 100vw;
-  max-height: 100vh;
+  width: 100vw;
+  height: 100vh;
   background-color: var(--navy950);
   display: flex;
   align-items: center;
@@ -37,4 +35,7 @@ body {
   align-items: stretch;
 }
 
+.text {
+  background-color: var(--blue950);
+}
 
