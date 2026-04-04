@@ -29,8 +29,8 @@ body {
 }
 
 .card {
-  width: 60rem;
-  height: 25rem;
+  width: 65rem;
+  height: 30rem;
   display: flex;
   align-items: stretch;
 }
