@@ -40,7 +40,7 @@ body {
   background-color: var(--blue950);
   height: 100%;
   width: 100%;
-  padding: 3rem;
+  padding: 3.5rem 3rem;
   color: white;
 }
 
@@ -50,3 +50,39 @@ body {
   object-fit: cover;
 }
 
+.header {
+  font-size: 2.5rem;
+  color: var(--white-main);
+  text-align: left;
+  margin: 2rem 0;
+}
+
+.span {
+  color: var(--purple500);
+}
+
+.info {
+  font-size: 1rem;
+  color: var(--white-info);
+  text-align: left;
+  line-height: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.numbers {
+  font-size: 2rem;
+  color: var(--white-stats);
+  text-align: left;
+}
+
+.caps {
+  font-size: .925rem;
+  color: var(--white-main);
+  text-align: left;
+}
