@@ -40,6 +40,8 @@ body {
   background-color: var(--blue950);
   height: 100%;
   width: 100%;
+  padding: 3rem;
+  color: white;
 }
 
 .image-box {
