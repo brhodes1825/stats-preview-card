@@ -63,8 +63,7 @@ body {
   height: 100%;
   background-image: url("image-header-desktop.jpg");
   background-color: var(--purpleimg);
-  background-blend-mode: overlay;
-  object-fit: stretch;
+  background-blend-mode: multiply;
 }
 
 .header {
