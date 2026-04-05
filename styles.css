@@ -64,6 +64,7 @@ body {
   background-image: url("image-header-desktop.jpg");
   background-color: var(--purpleimg);
   background-blend-mode: multiply;
+  background-size: cover;
 }
 
 .header {
