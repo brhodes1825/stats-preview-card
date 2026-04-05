@@ -117,3 +117,7 @@ body {
 .header, .numbers {
   font-family: "Inter";
 }
+
+.stack1, .stack2, .stack3 {
+  gap: .5rem;
+}
