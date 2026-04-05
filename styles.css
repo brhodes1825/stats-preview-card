@@ -16,7 +16,7 @@
 --navy950: hsl(233, 47%, 7%);
 --blue950: hsl(244, 37%, 16%);
 --purple500: hsl(277, 64%, 61%);
---purpleimg: hsla(277, 68%, 51%);
+--purpleimg: hsla(277, 68%, 51%, 0.6);
 
 /* Neutral */
 --white-main: hsl(0, 0%, 100%);
