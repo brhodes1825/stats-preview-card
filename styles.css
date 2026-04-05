@@ -163,7 +163,7 @@ body {
   }
 
   .stack1, .stack2, .stack3 {
-    width: 100%;
+/*    width: 100%; */
     text-align: center;
     gap: .925rem;
   }
