@@ -125,7 +125,7 @@ body {
 @media only screen and (max-width: 1100px) {
   .card {
     flex-direction: column-reverse;
-    width: 30rem;
+    width: 28rem;
     height: 72rem;
   }
 
