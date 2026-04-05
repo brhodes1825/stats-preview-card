@@ -155,9 +155,9 @@ body {
 
   .stats {
     flex-direction: column;
-    align-items: stretch;
+    align-items: center;
     text-align: center;
-/*    justify-content: space-between;    */
+    justify-content: space-between;
     gap: 1.5rem;
     margin: 2rem 0;
   }
