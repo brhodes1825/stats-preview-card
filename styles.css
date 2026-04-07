@@ -175,6 +175,6 @@ body {
   .caps {
     width: 100%;
     text-align: center;
-    margin-bottom: 1rem;
+/*    margin-bottom: .825rem;   */
   }
 }
