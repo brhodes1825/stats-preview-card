@@ -161,10 +161,10 @@ body {
     margin: 2rem 0;
   }
 
-  .stack1, .stack2, .stack3 {
-/*    text-align: center;    */
+/*  .stack1, .stack2, .stack3 {
+    text-align: center;
     gap: 1rem;
-  }
+  }   */
 
   .numbers {
     width: 100%;
