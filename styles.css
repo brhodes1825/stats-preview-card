@@ -160,6 +160,7 @@ body {
     justify-content: space-between;
     gap: 1.5rem;
     margin-top: 3rem;
+    margin-right: 0;
   }
 
 /*  .stack1, .stack2, .stack3 {
