@@ -165,20 +165,9 @@ body {
     margin-right: 0;
   }
 
-  .stack1 p {
-    margin-bottom: .5rem;
-  }
-
-   .stack2 p {
-    margin-bottom: .5rem;
-  }
-
-   .stack3 p {
-    margin-bottom: .5rem;
-  }
-
   .numbers {
     width: 100%;
+    margin-bottom: .5rem;
     text-align: center;
   }
 
