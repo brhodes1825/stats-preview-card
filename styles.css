@@ -138,12 +138,14 @@ body {
 
   .header {
     text-align: center;
-    margin: 0;
+    font-size: 2rem;
+    margin: 0 0 2rem 0;
   }
 
   .info {
     text-align: center;
     font-size: 1rem;
+    font-weight: 300;
     margin-bottom: 2rem;
   }
 
@@ -163,10 +165,17 @@ body {
     margin-right: 0;
   }
 
-/*  .stack1, .stack2, .stack3 {
-    text-align: center;
-    gap: 1rem;
-  }   */
+  .stack1 p {
+    margin-bottom: .5rem;
+  }
+
+   .stack2 p {
+    margin-bottom: .5rem;
+  }
+
+   .stack3 p {
+    margin-bottom: .5rem;
+  }
 
   .numbers {
     width: 100%;
